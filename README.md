@@ -1,3 +1,2 @@
 # Lab-biosenales
-Isabela Trujillo 
-Laura Vargas
+Isabela Trujillo - Laura Vargas
